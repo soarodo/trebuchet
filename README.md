@@ -6,4 +6,4 @@ La Runtime : https://drive.google.com/open?id=0B0-f-Cea3ddyZ1ltQXM1clgzVDQ
 Les .dll opengl et Qt : fonctionner windeployqt.exe 3DProjet.exe dans cmd
 
 ### Interface
-![Image text](trebuchet/interfaceImg.png)
+![Image text](interfaceImg.png)
